@@ -8,8 +8,8 @@ from datetime import datetime, timedelta
 # =====================================================================
 # 🔐 CONFIGURACIÓN DE ACCESO
 # =====================================================================
-CORREO = "TU_CORREO.COM"
-PASSWORD = "TU_CONTRASEÑA"
+CORREO = "agustingodoy207@gmail.com"
+PASSWORD = "*$Filiberto15$*"
 ACTIVO = "EURUSD-OTC"  
 
 API = IQ_Option(CORREO, PASSWORD)
